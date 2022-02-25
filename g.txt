@@ -1,0 +1,11 @@
+apple
+bag
+cat
+dog
+fan
+god
+hen
+ink
+junk
+queen
+
